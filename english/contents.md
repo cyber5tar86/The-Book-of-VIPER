@@ -8,14 +8,14 @@
 - [Code generation and module creation automation](code-generation.md)
 
 #### Practice
-- Compound VIPER modules
-- Transitions between modules
+- [Compound VIPER modules](compound-modules.md)
+- [Transitions between modules](module-transitions.md)
 - [The road from MVC to VIPER](mvc-chainsaw-massacre.md)
-- VIPER and NSFetchedResultsController
+- [VIPER and NSFetchedResultsController](frc.md)
 - [UIWebView and VIPER](webview.md)
-- VIPER and TDD
+- [VIPER and TDD](testing.md)
 
 #### Other
-- Code Style Questions
-- Additional Materials by Rambler&Co
+- [Code Style Questions](code-style.md)
+- [Additional Materials by Rambler&Co](rambler-materials.md)
 - [Other Materials](other-materials.md)
